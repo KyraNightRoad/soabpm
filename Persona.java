@@ -1,0 +1,5 @@
+Nombre
+Apellidos
+
+edad
+dni
