@@ -1,7 +1,5 @@
 Nombre
 Apellidos
 
-Edad
-DNI
-
-dshgiushgshgduwgehsgjaosjgposjgposjgpoewg
+edad
+dni
